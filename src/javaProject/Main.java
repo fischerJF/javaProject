@@ -8,6 +8,8 @@ public class Main {
 
 		Logger logger = Logger.getLogger("lopes");
 		  logger.info("iniciando aplicação");
+		  
+		  logger.info("teste");
 	}
 
 }
